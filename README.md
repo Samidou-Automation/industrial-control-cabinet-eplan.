@@ -238,42 +238,6 @@ This structure follows the electrical design from power distribution and control
 15. Drilling documentation
 16. Parts list generation
 
-## 📸 Project Gallery
-
-![3D Cabinet Layout](images/3d-cabinet-layout.png)
-![Front Cabinet View](images/front-cabinet-view.png)
-![3D Cabinet with Wiring](images/3d-cabinet-wiring.png)
-![Front Mounting Panel View](images/front-mounting-panel.png)
-![HMI / Cabinet Door View](images/hmi-cabinet-door.png)
-![2D Panel Layout](images/2d-panel-layout.png)
-![2D Drilling View](images/2d-drilling-view.png)
-![Wiring / Cable Routing View](images/wiring-cable-routing.png)
-![Side / Perspective 3D View](images/3d-perspective-view.png)
-
-## 📁 Recommended Repository Structure
-
-The following structure is suggested for organizing the project files. Folders are not yet populated and represent a recommended layout.
-
-```
-/
-├── README.md
-├── EPLAN/
-│   ├── Schematics/
-│   ├── 2D_Layout/
-│   ├── Drilling/
-│   ├── 3D_Layout/
-│   └── Parts_List/
-├── Images/
-│   ├── 3D/
-│   ├── 2D/
-│   └── Wiring/
-└── Documentation/
-```
-
-## 🎯 Project Outcome
-
-This project resulted in a complete electrical and physical representation of an industrial control cabinet, covering the full design cycle from electrical schematic design to 3D implementation and manufacturing documentation. The deliverables include the electrical architecture, PLC and I/O configuration, PROFINET communication design, safety circuit, VFD and motor-control integration, terminal organization, thermal analysis, 2D manufacturing drawings, 3D cabinet model, and a consolidated bill of materials.
-
 ## 🛠️ Software & Technologies
 
 - **EPLAN Electric P8** – electrical schematic design and documentation
